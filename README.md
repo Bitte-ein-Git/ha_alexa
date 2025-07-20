@@ -1,8 +1,23 @@
-[![Validate](https://github.com/alandtse/alexa_media_player/actions/workflows/validate.yaml/badge.svg)](https://github.com/alandtse/alexa_media_player/actions/workflows/validate.yaml)
-![semantic_release](https://github.com/alandtse/alexa_media_player/workflows/semantic_release/badge.svg)
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/hacs/integration)
-![GitHub all releases](https://img.shields.io/github/downloads/alandtse/alexa_media_player/total)
-![GitHub release (latest by SemVer)](https://img.shields.io/github/downloads/alandtse/alexa_media_player/latest/total)
+🗿• heyFordy's Alexa HA Integration
+
+`» basically "Alexa Media Player"`
+`» but with fixes or tweaks`
+
+-
+## Installation (Easy)
+[![My Home Assistant](https://img.shields.io/badge/Home%20Assistant-%2341BDF5.svg?style=flat&logo=home-assistant&label=Add%20HACS%20Repo%20to)](https://my.home-assistant.io/redirect/hacs_repository/?owner=Bitte-ein-Git&repository=ha_alexa&category=integration)
+
+## Installation (Manual)
+1. Add this Repository to HACS:
+   - HACS > 3 dots > "Add custom repository"
+   - URL: `Bitte-ein-Git/ha_alexa`
+   - Type: Integration
+
+2. Select „🗿• heyFordy's Alexa Integration“ über HACS installieren.
+
+
+
+
 
 [Alexa Media Player Custom Component](https://github.com/alandtse/alexa_media_player) for homeassistant
 
