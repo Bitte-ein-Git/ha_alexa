@@ -72,6 +72,7 @@ jobs:
       - name: Upload zip to release
         uses: svenstaro/upload-release-action@v1-release
         with:
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
           file: /home/runner/work/ha_alexa/ha_alexa/custom_components/alexa_media/alexa_media.zip
           asset_name: alexa_media.zip
           tag: ${{ env.release_version }}
